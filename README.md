@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning DSA <br />
 - 💬 Ask me about Tech <br />
 - 📫 How to reach me : <br />
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />] [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]( https://www.linkedin.com/in/bala-kumar-b20a36286)
+<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />] [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> ( https://www.linkedin.com/in/bala-kumar-b20a36286)]
 - 😄 Pronouns: Techie
 
 ### I code in
