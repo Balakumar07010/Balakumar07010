@@ -4,7 +4,7 @@
 
 🔭 Here's my portfolio<br>🌱 I’m currently learning DSA<br>👯 I'm looking to collaborate on a creative project that combines art and technology <br>💬 Ask me about Tech<br>😄 Pronouns: Techie <br>
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bala-kumar-b20a36286) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:balakumar20040516@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bala-kumar-b20a36286) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:balakumar20040516@gmail.com) 
 
 
 # 💻 Tech Stack:
